@@ -9,5 +9,8 @@ package test;
  * @author Admin
  */
 public class abc {
-    
+    public  void sinhvien(){
+
+        
+    }
 }
