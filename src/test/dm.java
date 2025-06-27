@@ -9,7 +9,5 @@ package test;
  * @author meoba
  */
 public class dm {
-    public void test {
-
-}
+    
 }

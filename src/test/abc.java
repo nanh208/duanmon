@@ -10,7 +10,7 @@ package test;
  */
 public class abc {
     public  void sinhvien(){
-
+        System.out.println("okkk");
         
     }
 }
